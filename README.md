@@ -1,6 +1,6 @@
 # Image Classifier for Movie Characters
 
-![Harry Potter] (https://movieplayer.net-cdn.it/t/images/2023/04/12/harry-potter_jpg_1200x0_crop_q85.jpg)
+![Harry Potter](https://movieplayer.net-cdn.it/t/images/2023/04/12/harry-potter_jpg_1200x0_crop_q85.jpg)
 
 A major potter head over here! I have always wondered how diifferent the characters looked over the years. I belive a neural network would be able to learn the facial changes each characters had gone through. But, I wanted to experiment with supervised classification algorithms and check if they would also identify the characters. 
 
