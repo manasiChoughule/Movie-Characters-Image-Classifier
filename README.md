@@ -41,4 +41,11 @@ SVM | 0.90322
 Random Forest | 0.81182
 Logistic Regression | 0.91935
 
+**Confusion Matrix:**
+
+![confusion matrix](https://github.com/manasiChoughule/Movie-Characters-Image-Classifier/assets/25337745/cb0d403a-0e13-4b13-bc41-59ba1fec7d8f)
+
+## Conclusion:
+We have used Logistic Regression with 0.91935 accuracy for our prediction model.
+
 
